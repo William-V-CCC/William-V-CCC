@@ -5,9 +5,9 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
 <h2>Im Familiar With</h2>
 <ul>
   <li>Swift</li>
-  <li>Javascript</li>
   <li>Html</li>
   <li>Css</li>
+  <li>Javascript</li>
   <li>React</li>
   <li>Deno</li>
   <li>Typescript</li>
