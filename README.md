@@ -12,9 +12,13 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
   <li>FireBase</li>
   <li>Docker</li>
 </ul>
-<h2>Experience and Qualifications</h2>
-<div>
-  <li>Swift Associates certification</li>
-  <li>BiteByte an inventory management system using mongo and NextJS</li>
-</div>
+<h2>Past Projects<h2/>
+<ul>
+<li>BiteByte an inventory sorting system using mongoDB, papaparse, and firebase through nextJS</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
