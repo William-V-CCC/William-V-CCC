@@ -5,22 +5,7 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
 <h2>Im Familiar With</h2>
 <ul>
  <img src="https://skillicons.dev/icons?i=js,html,css,deno,express,figma,github,js,react,solidity"> 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-  <li>Swift</li>
-  <li>Html</li>
-  <li>Css</li>
-  <li>Javascript</li>
-  <li>React</li>
-  <li>Deno</li>
-  <li>Typescript</li>
-  <li>NextJS</li>
   <li>Postman</li>
-  <li>Express</li>
   <li>MongoDB</li>
   <li>FireBase</li>
   <li>Docker</li>
