@@ -24,4 +24,4 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
   <li>BiteByte an inventory management system using mongo and NextJS</li>
 </div>
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={William-V-CCC}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username={William/V/CCC}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
