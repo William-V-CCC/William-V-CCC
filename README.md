@@ -15,7 +15,5 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
 <h2>Past Projects<h2/>
 <ul>
 <li>BiteByte an inventory sorting system using mongoDB, papaparse, and firebase through nextJS</li>
-//<li></li>
-
 </ul>
 
