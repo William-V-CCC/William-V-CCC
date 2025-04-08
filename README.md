@@ -5,7 +5,7 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
 <h2>Im Familiar With</h2>
 <ul>
  <a href="">
- <img src="https://skillicons.dev/icons?i=js,html,css,deno,express,figma,github,react,solidity"> 
+ <img src="https://skillicons.dev/icons?i=js,html,css,deno,express,figma,github,react,solidity,postman,mongodb,firebase,docker"> 
   <a/>
   <li>Postman</li>
   <li>MongoDB</li>
