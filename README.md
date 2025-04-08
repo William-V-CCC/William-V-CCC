@@ -4,6 +4,7 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
 </div>
 <h2>Im Familiar With</h2>
 <ul>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,deno,express,figma,github,js,react,solidity)](https://skillicons.dev)
   <li>Swift</li>
   <li>Html</li>
   <li>Css</li>
