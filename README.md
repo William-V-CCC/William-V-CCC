@@ -13,7 +13,7 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
   <li>Docker</li>
 </ul>
 <h2>Contact Me</h2>
-    <a href="">
+    <a href="https://www.linkedin.com/in/william-vance-bb1852327/">
  <img src="https://skillicons.dev/icons?i=linkedin"> 
   <a/>
 <h2>Past Projects<h2/>
