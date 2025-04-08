@@ -5,13 +5,17 @@ Entry-level Software Engineer who is learning MERN (MongoDb, Express, React, Nod
 <h2>Im Familiar With</h2>
 <ul>
  <a href="">
- <img src="https://skillicons.dev/icons?i=js,html,css,deno,express,figma,github,js,react,solidity"> 
+ <img src="https://skillicons.dev/icons?i=js,html,css,deno,express,figma,github,react,solidity"> 
   <a/>
   <li>Postman</li>
   <li>MongoDB</li>
   <li>FireBase</li>
   <li>Docker</li>
 </ul>
+<h2>Contact Me</h2>
+    <a href="">
+ <img src="https://skillicons.dev/icons?i=linkedin"> 
+  <a/>
 <h2>Past Projects<h2/>
 <ul>
 <li>BiteByte an inventory sorting system using mongoDB, papaparse, and firebase through nextJS</li>
